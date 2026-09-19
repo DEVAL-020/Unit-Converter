@@ -1,0 +1,15 @@
+# Gradle and Kotlin build output
+.gradle/
+.kotlin/
+build/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
